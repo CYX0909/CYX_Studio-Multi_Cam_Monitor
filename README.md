@@ -21,9 +21,16 @@
   支援電腦端一鍵「全體拍照/錄影」。錄影時攝像端「● LIVE」標記會同步轉為紅色提示，模擬專業攝影機指示燈效果。
 
 ## 📸 介面預覽 (Screenshots)
-<img src="icon.png" width="150" alt="Monitor Pro Logo">
-<img src="https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&q=80&w=1000" width="450" alt="Multi-cam Setup Placeholder">
-*(註：建議在此放置你先前的電腦與手機同步截圖)*
+<div align="center">
+  <img src="icon.png" width="160" alt="Monitor Pro Logo">
+  <br>
+  <img src="screenshots/1.png" width="800" alt="Dashboard View">
+  <br>
+  <img src="screenshots/2.png" width="400" alt="Node UI 1">
+  <img src="screenshots/3.png" width="400" alt="Node UI 2">
+  <img src="screenshots/4.png" width="400" alt="Node UI 3">
+  <img src="screenshots/5.png" width="400" alt="Node UI 4">
+</div>
 
 ## 🛠️ 技術堆疊 (Tech Stack)
 * **Frontend**: Vanilla JavaScript (ES6+), HTML5 Canvas API
