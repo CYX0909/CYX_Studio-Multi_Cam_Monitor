@@ -26,10 +26,10 @@
   <br>
   <img src="screenshots/1.png" width="800" alt="Dashboard View">
   <br>
-  <img src="screenshots/2.png" width="400" alt="Node UI 1">
-  <img src="screenshots/3.png" width="400" alt="Node UI 2">
-  <img src="screenshots/4.png" width="400" alt="Node UI 3">
-  <img src="screenshots/5.png" width="400" alt="Node UI 4">
+  <img src="screenshots/2.PNG" width="400" alt="Node UI 1">
+  <img src="screenshots/3.PNG" width="400" alt="Node UI 2">
+  <img src="screenshots/4.PNG" width="400" alt="Node UI 3">
+  <img src="screenshots/5.PNG" width="400" alt="Node UI 4">
 </div>
 
 ## 🛠️ 技術堆疊 (Tech Stack)
